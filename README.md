@@ -36,7 +36,7 @@ crong : ---
 honux : ----
 
 pobi : -----
-crong : ---
+crong : ----
 honux : -----
 
 pobi : -----
